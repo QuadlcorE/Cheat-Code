@@ -15,6 +15,7 @@ if (l0A4AA6E9_0)
 	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "object" "obj_wall"
 	/// @DnDArgument : "not" "1"
+	/// @DnDSaveInfo : "object" "obj_wall"
 	var l26375C70_0 = instance_place(x + 0, y + +4, obj_wall);
 	if (!(l26375C70_0 > 0))
 	{
@@ -38,6 +39,7 @@ if (l0A4AA6E9_0)
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "obj_wall"
 /// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "object" "obj_wall"
 var l71A6F2E6_0 = instance_place(x + 0, y + +3, obj_wall);
 if (!(l71A6F2E6_0 > 0))
 {

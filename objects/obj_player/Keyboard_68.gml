@@ -15,6 +15,7 @@ if (l60AB2423_0)
 	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "object" "obj_wall"
 	/// @DnDArgument : "not" "1"
+	/// @DnDSaveInfo : "object" "obj_wall"
 	var l5ED081FC_0 = instance_place(x + +4, y + 0, obj_wall);
 	if (!(l5ED081FC_0 > 0))
 	{
@@ -37,6 +38,7 @@ if (l60AB2423_0)
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "obj_wall"
 /// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "object" "obj_wall"
 var l55ECB458_0 = instance_place(x + +3, y + 0, obj_wall);
 if (!(l55ECB458_0 > 0))
 {
