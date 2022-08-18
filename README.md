@@ -13,5 +13,5 @@ Source code for CHEATCODE a gamejam game title I published previously (Using it 
 -Head over to the itch page of the [game](https://d-dragoon.itch.io/cheat-code).
 -Only the windows version of the game is available for download.
 
-umm like and leave a review really motivates me to keep making games for gamejams.
+umm like and leave a review and suggestions really motivates me to keep making games for gamejams.
 Thank you!
